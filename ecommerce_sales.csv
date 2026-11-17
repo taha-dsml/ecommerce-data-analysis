@@ -1,0 +1,501 @@
+Order_ID,Date,Product,Category,Quantity,Unit_Price,City,Payment_Method,Customer_Age,Rating,Total_Sales
+1001,2025-01-01,Mouse,Gadgets,4,50000,Hyderabad,UPI,49,2,200000
+1002,2025-01-02,Headphones,Accessories,2,1500,Delhi,Credit Card,59,5,3000
+1003,2025-01-03,Smartwatch,Gadgets,4,1000,Mumbai,UPI,51,5,4000
+1004,2025-01-04,Mouse,Electronics,2,1500,Srinagar,Cash,60,5,3000
+1005,2025-01-05,Tablet,Electronics,5,1000,Bangalore,Credit Card,42,4,5000
+1006,2025-01-06,Smartwatch,Electronics,2,50000,Delhi,Credit Card,27,5,100000
+1007,2025-01-07,Smartwatch,Electronics,3,500,Hyderabad,Credit Card,38,3,1500
+1008,2025-01-08,Mouse,Gadgets,3,25000,Mumbai,Cash,63,4,75000
+1009,2025-01-09,Phone,Accessories,3,50000,Delhi,Debit Card,56,1,150000
+1010,2025-01-10,Tablet,Electronics,3,1500,Hyderabad,Cash,44,5,4500
+1011,2025-01-11,Mouse,Accessories,4,5000,Bangalore,UPI,44,5,20000
+1012,2025-01-12,Tablet,Gadgets,5,5000,Bangalore,UPI,19,1,25000
+1013,2025-01-13,Tablet,Gadgets,2,10000,Chennai,Cash,58,5,20000
+1014,2025-01-14,Smartwatch,Gadgets,2,1000,Srinagar,Cash,30,1,2000
+1015,2025-01-15,Headphones,Electronics,3,1500,Chennai,Credit Card,26,4,4500
+1016,2025-01-16,Tablet,Accessories,3,10000,Mumbai,Cash,53,3,30000
+1017,2025-01-17,Keyboard,Accessories,1,1500,Delhi,Credit Card,39,1,1500
+1018,2025-01-18,Smartwatch,Accessories,5,1000,Mumbai,UPI,59,2,5000
+1019,2025-01-19,Phone,Gadgets,4,50000,Hyderabad,Credit Card,43,1,200000
+1020,2025-01-20,Headphones,Electronics,2,50000,Bangalore,Cash,29,5,100000
+1021,2025-01-21,Keyboard,Gadgets,1,5000,Chennai,UPI,34,4,5000
+1022,2025-01-22,Keyboard,Gadgets,1,50000,Chennai,Debit Card,31,4,50000
+1023,2025-01-23,Phone,Accessories,2,50000,Chennai,Credit Card,31,1,100000
+1024,2025-01-24,Headphones,Gadgets,4,500,Mumbai,UPI,51,3,2000
+1025,2025-01-25,Smartwatch,Accessories,1,5000,Bangalore,Credit Card,37,2,5000
+1026,2025-01-26,Laptop,Electronics,1,10000,Delhi,UPI,28,4,10000
+1027,2025-01-27,Headphones,Accessories,5,25000,Hyderabad,UPI,33,5,125000
+1028,2025-01-28,Phone,Electronics,4,500,Delhi,Credit Card,48,5,2000
+1029,2025-01-29,Keyboard,Accessories,1,10000,Mumbai,Debit Card,23,3,10000
+1030,2025-01-30,Smartwatch,Gadgets,4,1000,Hyderabad,UPI,36,4,4000
+1031,2025-01-31,Headphones,Gadgets,2,500,Chennai,UPI,54,1,1000
+1032,2025-02-01,Laptop,Electronics,3,10000,Srinagar,UPI,21,5,30000
+1033,2025-02-02,Laptop,Electronics,1,1000,Mumbai,Debit Card,64,3,1000
+1034,2025-02-03,Tablet,Electronics,5,5000,Mumbai,Debit Card,21,4,25000
+1035,2025-02-04,Tablet,Accessories,2,25000,Bangalore,Cash,37,4,50000
+1036,2025-02-05,Mouse,Accessories,4,1000,Delhi,Credit Card,27,4,4000
+1037,2025-02-06,Phone,Electronics,2,50000,Mumbai,Debit Card,41,4,100000
+1038,2025-02-07,Headphones,Gadgets,1,1500,Mumbai,Credit Card,52,4,1500
+1039,2025-02-08,Headphones,Accessories,4,1000,Chennai,Cash,43,5,4000
+1040,2025-02-09,Mouse,Accessories,3,1000,Chennai,Credit Card,54,3,3000
+1041,2025-02-10,Keyboard,Accessories,2,25000,Hyderabad,Debit Card,55,4,50000
+1042,2025-02-11,Keyboard,Electronics,1,1500,Srinagar,Credit Card,38,2,1500
+1043,2025-02-12,Mouse,Electronics,5,50000,Bangalore,Debit Card,57,2,250000
+1044,2025-02-13,Keyboard,Electronics,4,10000,Srinagar,Credit Card,56,3,40000
+1045,2025-02-14,Tablet,Electronics,2,10000,Hyderabad,Debit Card,38,1,20000
+1046,2025-02-15,Headphones,Electronics,2,1000,Chennai,Debit Card,27,1,2000
+1047,2025-02-16,Mouse,Gadgets,3,1500,Delhi,Credit Card,55,1,4500
+1048,2025-02-17,Headphones,Gadgets,3,1500,Chennai,Cash,63,2,4500
+1049,2025-02-18,Laptop,Electronics,5,50000,Bangalore,UPI,21,1,250000
+1050,2025-02-19,Tablet,Accessories,5,25000,Chennai,Cash,62,5,125000
+1051,2025-02-20,Smartwatch,Electronics,1,5000,Bangalore,Credit Card,37,4,5000
+1052,2025-02-21,Tablet,Gadgets,1,10000,Bangalore,Cash,34,2,10000
+1053,2025-02-22,Mouse,Gadgets,5,25000,Bangalore,Debit Card,24,3,125000
+1054,2025-02-23,Smartwatch,Accessories,5,500,Hyderabad,UPI,21,3,2500
+1055,2025-02-24,Laptop,Gadgets,4,10000,Bangalore,Credit Card,46,4,40000
+1056,2025-02-25,Mouse,Electronics,3,25000,Bangalore,Credit Card,31,2,75000
+1057,2025-02-26,Phone,Accessories,1,10000,Delhi,Credit Card,20,1,10000
+1058,2025-02-27,Headphones,Electronics,3,5000,Srinagar,UPI,41,1,15000
+1059,2025-02-28,Laptop,Electronics,3,500,Mumbai,Debit Card,54,5,1500
+1060,2025-03-01,Headphones,Accessories,5,5000,Srinagar,Credit Card,33,5,25000
+1061,2025-03-02,Keyboard,Electronics,4,50000,Bangalore,Cash,21,1,200000
+1062,2025-03-03,Phone,Gadgets,2,500,Delhi,Credit Card,41,3,1000
+1063,2025-03-04,Phone,Electronics,4,1000,Chennai,Credit Card,51,3,4000
+1064,2025-03-05,Laptop,Accessories,4,25000,Delhi,Credit Card,47,5,100000
+1065,2025-03-06,Phone,Accessories,3,500,Bangalore,Credit Card,35,4,1500
+1066,2025-03-07,Smartwatch,Accessories,4,50000,Delhi,Debit Card,36,1,200000
+1067,2025-03-08,Phone,Electronics,1,50000,Delhi,Cash,48,5,50000
+1068,2025-03-09,Headphones,Accessories,3,5000,Bangalore,Debit Card,36,5,15000
+1069,2025-03-10,Headphones,Accessories,1,10000,Hyderabad,Cash,63,1,10000
+1070,2025-03-11,Mouse,Electronics,2,500,Delhi,Credit Card,36,1,1000
+1071,2025-03-12,Headphones,Gadgets,3,25000,Mumbai,UPI,39,3,75000
+1072,2025-03-13,Mouse,Electronics,2,500,Mumbai,Debit Card,41,4,1000
+1073,2025-03-14,Headphones,Accessories,3,1500,Delhi,UPI,62,4,4500
+1074,2025-03-15,Smartwatch,Accessories,5,10000,Hyderabad,Debit Card,29,1,50000
+1075,2025-03-16,Mouse,Electronics,4,25000,Chennai,Credit Card,47,2,100000
+1076,2025-03-17,Tablet,Gadgets,5,25000,Bangalore,Debit Card,55,5,125000
+1077,2025-03-18,Keyboard,Accessories,2,1000,Mumbai,Credit Card,48,5,2000
+1078,2025-03-19,Laptop,Accessories,4,5000,Chennai,Debit Card,53,1,20000
+1079,2025-03-20,Headphones,Accessories,3,1000,Delhi,Credit Card,36,2,3000
+1080,2025-03-21,Phone,Electronics,4,25000,Chennai,Credit Card,62,3,100000
+1081,2025-03-22,Headphones,Accessories,1,10000,Srinagar,Cash,53,1,10000
+1082,2025-03-23,Phone,Gadgets,4,500,Mumbai,Credit Card,47,1,2000
+1083,2025-03-24,Keyboard,Accessories,1,500,Delhi,Cash,50,5,500
+1084,2025-03-25,Keyboard,Accessories,4,10000,Bangalore,Credit Card,35,1,40000
+1085,2025-03-26,Keyboard,Gadgets,1,25000,Hyderabad,UPI,45,1,25000
+1086,2025-03-27,Phone,Accessories,2,50000,Delhi,Credit Card,64,1,100000
+1087,2025-03-28,Headphones,Electronics,5,500,Bangalore,UPI,28,5,2500
+1088,2025-03-29,Keyboard,Electronics,3,50000,Hyderabad,UPI,62,3,150000
+1089,2025-03-30,Smartwatch,Electronics,4,500,Hyderabad,Credit Card,50,3,2000
+1090,2025-03-31,Mouse,Gadgets,5,500,Delhi,UPI,34,1,2500
+1091,2025-04-01,Phone,Accessories,3,5000,Chennai,Cash,23,5,15000
+1092,2025-04-02,Phone,Electronics,3,5000,Chennai,Debit Card,21,3,15000
+1093,2025-04-03,Headphones,Gadgets,1,1500,Hyderabad,Credit Card,37,3,1500
+1094,2025-04-04,Phone,Accessories,2,1000,Chennai,UPI,64,3,2000
+1095,2025-04-05,Phone,Gadgets,2,10000,Srinagar,Credit Card,44,5,20000
+1096,2025-04-06,Keyboard,Electronics,5,10000,Hyderabad,Cash,32,5,50000
+1097,2025-04-07,Headphones,Electronics,2,10000,Hyderabad,Credit Card,23,1,20000
+1098,2025-04-08,Keyboard,Electronics,4,1500,Bangalore,Credit Card,64,4,6000
+1099,2025-04-09,Mouse,Gadgets,2,5000,Chennai,UPI,31,3,10000
+1100,2025-04-10,Mouse,Gadgets,5,25000,Hyderabad,Cash,28,4,125000
+1101,2025-04-11,Keyboard,Electronics,2,50000,Srinagar,Debit Card,56,5,100000
+1102,2025-04-12,Mouse,Gadgets,4,50000,Bangalore,Debit Card,26,5,200000
+1103,2025-04-13,Headphones,Electronics,1,25000,Delhi,UPI,43,5,25000
+1104,2025-04-14,Laptop,Electronics,5,1500,Hyderabad,Credit Card,33,4,7500
+1105,2025-04-15,Keyboard,Accessories,1,25000,Srinagar,UPI,22,5,25000
+1106,2025-04-16,Smartwatch,Gadgets,1,10000,Mumbai,UPI,27,1,10000
+1107,2025-04-17,Smartwatch,Electronics,1,1000,Srinagar,UPI,20,5,1000
+1108,2025-04-18,Phone,Electronics,3,500,Srinagar,Credit Card,30,2,1500
+1109,2025-04-19,Mouse,Gadgets,3,50000,Bangalore,Cash,60,4,150000
+1110,2025-04-20,Smartwatch,Accessories,1,5000,Delhi,UPI,47,2,5000
+1111,2025-04-21,Phone,Accessories,5,5000,Mumbai,Credit Card,62,5,25000
+1112,2025-04-22,Laptop,Electronics,4,1500,Chennai,Cash,23,1,6000
+1113,2025-04-23,Headphones,Gadgets,4,5000,Chennai,UPI,34,3,20000
+1114,2025-04-24,Headphones,Accessories,2,10000,Srinagar,Debit Card,62,5,20000
+1115,2025-04-25,Headphones,Gadgets,5,50000,Bangalore,Cash,36,1,250000
+1116,2025-04-26,Smartwatch,Gadgets,3,25000,Bangalore,UPI,59,4,75000
+1117,2025-04-27,Laptop,Electronics,1,10000,Chennai,Cash,52,2,10000
+1118,2025-04-28,Smartwatch,Accessories,2,1500,Mumbai,Cash,63,2,3000
+1119,2025-04-29,Mouse,Electronics,4,10000,Delhi,Cash,43,2,40000
+1120,2025-04-30,Smartwatch,Accessories,3,25000,Mumbai,Cash,22,4,75000
+1121,2025-05-01,Laptop,Accessories,3,1000,Hyderabad,Cash,46,1,3000
+1122,2025-05-02,Laptop,Accessories,1,1500,Hyderabad,Cash,54,4,1500
+1123,2025-05-03,Mouse,Accessories,4,1000,Delhi,UPI,37,2,4000
+1124,2025-05-04,Laptop,Accessories,5,500,Chennai,Debit Card,38,5,2500
+1125,2025-05-05,Laptop,Gadgets,3,1000,Delhi,Credit Card,27,3,3000
+1126,2025-05-06,Headphones,Electronics,1,500,Bangalore,Cash,22,4,500
+1127,2025-05-07,Mouse,Gadgets,5,500,Hyderabad,Credit Card,53,4,2500
+1128,2025-05-08,Tablet,Accessories,4,1000,Srinagar,UPI,23,1,4000
+1129,2025-05-09,Tablet,Electronics,3,1500,Srinagar,Cash,43,1,4500
+1130,2025-05-10,Laptop,Accessories,5,25000,Chennai,Debit Card,21,4,125000
+1131,2025-05-11,Tablet,Electronics,5,10000,Bangalore,Credit Card,56,2,50000
+1132,2025-05-12,Tablet,Gadgets,5,10000,Mumbai,Cash,56,3,50000
+1133,2025-05-13,Laptop,Electronics,3,25000,Bangalore,UPI,52,1,75000
+1134,2025-05-14,Tablet,Electronics,3,50000,Srinagar,Debit Card,18,2,150000
+1135,2025-05-15,Smartwatch,Electronics,2,50000,Srinagar,Credit Card,41,5,100000
+1136,2025-05-16,Phone,Electronics,4,500,Hyderabad,Credit Card,53,1,2000
+1137,2025-05-17,Mouse,Electronics,1,500,Bangalore,Cash,23,2,500
+1138,2025-05-18,Phone,Accessories,5,1500,Bangalore,Debit Card,58,2,7500
+1139,2025-05-19,Laptop,Electronics,2,5000,Srinagar,Debit Card,63,3,10000
+1140,2025-05-20,Headphones,Electronics,1,1000,Mumbai,Debit Card,61,3,1000
+1141,2025-05-21,Mouse,Gadgets,2,500,Chennai,Debit Card,48,5,1000
+1142,2025-05-22,Laptop,Electronics,3,10000,Chennai,UPI,37,2,30000
+1143,2025-05-23,Headphones,Gadgets,5,1500,Bangalore,Debit Card,41,2,7500
+1144,2025-05-24,Phone,Accessories,1,1000,Chennai,Credit Card,42,3,1000
+1145,2025-05-25,Laptop,Electronics,1,1500,Srinagar,Credit Card,53,1,1500
+1146,2025-05-26,Mouse,Gadgets,1,1000,Srinagar,UPI,38,1,1000
+1147,2025-05-27,Mouse,Gadgets,1,1000,Bangalore,Credit Card,47,4,1000
+1148,2025-05-28,Keyboard,Accessories,1,25000,Bangalore,Credit Card,41,3,25000
+1149,2025-05-29,Smartwatch,Electronics,2,500,Hyderabad,Debit Card,61,4,1000
+1150,2025-05-30,Tablet,Electronics,5,1500,Bangalore,Credit Card,59,3,7500
+1151,2025-05-31,Headphones,Gadgets,3,1500,Mumbai,UPI,47,5,4500
+1152,2025-06-01,Keyboard,Electronics,3,25000,Chennai,Debit Card,39,2,75000
+1153,2025-06-02,Tablet,Gadgets,3,10000,Bangalore,Cash,45,5,30000
+1154,2025-06-03,Tablet,Electronics,3,10000,Delhi,Debit Card,24,3,30000
+1155,2025-06-04,Laptop,Gadgets,2,50000,Hyderabad,UPI,52,2,100000
+1156,2025-06-05,Tablet,Electronics,4,500,Delhi,Debit Card,45,1,2000
+1157,2025-06-06,Smartwatch,Accessories,5,500,Srinagar,Debit Card,31,1,2500
+1158,2025-06-07,Mouse,Electronics,1,5000,Chennai,UPI,27,4,5000
+1159,2025-06-08,Keyboard,Electronics,4,25000,Bangalore,Debit Card,33,3,100000
+1160,2025-06-09,Tablet,Accessories,3,10000,Delhi,UPI,33,3,30000
+1161,2025-06-10,Laptop,Electronics,4,1000,Chennai,UPI,48,1,4000
+1162,2025-06-11,Smartwatch,Accessories,5,1500,Srinagar,Cash,59,5,7500
+1163,2025-06-12,Phone,Electronics,1,500,Mumbai,Credit Card,42,2,500
+1164,2025-06-13,Mouse,Gadgets,1,1500,Hyderabad,Credit Card,30,5,1500
+1165,2025-06-14,Mouse,Gadgets,5,1500,Chennai,Debit Card,23,5,7500
+1166,2025-06-15,Keyboard,Electronics,5,5000,Chennai,Debit Card,61,1,25000
+1167,2025-06-16,Mouse,Electronics,3,10000,Mumbai,Cash,26,1,30000
+1168,2025-06-17,Tablet,Electronics,1,500,Chennai,Cash,62,1,500
+1169,2025-06-18,Laptop,Gadgets,4,1500,Srinagar,Cash,53,4,6000
+1170,2025-06-19,Mouse,Electronics,2,500,Srinagar,UPI,60,5,1000
+1171,2025-06-20,Mouse,Gadgets,2,1000,Mumbai,Cash,37,3,2000
+1172,2025-06-21,Phone,Accessories,5,5000,Hyderabad,Cash,35,2,25000
+1173,2025-06-22,Phone,Gadgets,3,1000,Bangalore,Debit Card,60,4,3000
+1174,2025-06-23,Headphones,Gadgets,2,500,Delhi,Cash,38,3,1000
+1175,2025-06-24,Smartwatch,Accessories,1,50000,Bangalore,UPI,21,5,50000
+1176,2025-06-25,Tablet,Gadgets,5,500,Chennai,UPI,50,1,2500
+1177,2025-06-26,Mouse,Electronics,4,10000,Delhi,Debit Card,44,5,40000
+1178,2025-06-27,Mouse,Electronics,5,1500,Mumbai,Cash,24,2,7500
+1179,2025-06-28,Laptop,Gadgets,4,1500,Mumbai,Cash,23,4,6000
+1180,2025-06-29,Headphones,Electronics,5,1000,Hyderabad,UPI,32,4,5000
+1181,2025-06-30,Smartwatch,Gadgets,5,5000,Delhi,Cash,35,2,25000
+1182,2025-07-01,Headphones,Electronics,5,50000,Srinagar,Cash,49,3,250000
+1183,2025-07-02,Keyboard,Electronics,4,25000,Delhi,Cash,28,3,100000
+1184,2025-07-03,Smartwatch,Gadgets,4,1500,Chennai,Credit Card,37,4,6000
+1185,2025-07-04,Mouse,Electronics,5,10000,Srinagar,Debit Card,41,4,50000
+1186,2025-07-05,Mouse,Gadgets,2,1000,Mumbai,Credit Card,32,1,2000
+1187,2025-07-06,Smartwatch,Electronics,3,1000,Delhi,Debit Card,24,3,3000
+1188,2025-07-07,Mouse,Electronics,3,25000,Bangalore,UPI,38,2,75000
+1189,2025-07-08,Tablet,Accessories,3,10000,Hyderabad,Cash,59,3,30000
+1190,2025-07-09,Smartwatch,Accessories,4,5000,Bangalore,Debit Card,43,1,20000
+1191,2025-07-10,Headphones,Gadgets,4,10000,Hyderabad,Credit Card,61,4,40000
+1192,2025-07-11,Smartwatch,Accessories,2,5000,Chennai,Cash,31,4,10000
+1193,2025-07-12,Mouse,Gadgets,3,10000,Bangalore,UPI,54,1,30000
+1194,2025-07-13,Tablet,Accessories,3,10000,Delhi,Debit Card,38,2,30000
+1195,2025-07-14,Tablet,Electronics,5,500,Delhi,Debit Card,35,4,2500
+1196,2025-07-15,Keyboard,Gadgets,4,1000,Bangalore,Debit Card,22,5,4000
+1197,2025-07-16,Headphones,Gadgets,3,10000,Delhi,Cash,20,4,30000
+1198,2025-07-17,Phone,Electronics,2,25000,Chennai,Credit Card,40,5,50000
+1199,2025-07-18,Phone,Gadgets,2,10000,Srinagar,Credit Card,43,1,20000
+1200,2025-07-19,Smartwatch,Gadgets,3,1500,Chennai,Debit Card,54,1,4500
+1201,2025-07-20,Keyboard,Accessories,4,1000,Hyderabad,UPI,41,4,4000
+1202,2025-07-21,Laptop,Gadgets,2,1500,Chennai,UPI,36,3,3000
+1203,2025-07-22,Smartwatch,Electronics,5,1000,Hyderabad,Credit Card,42,5,5000
+1204,2025-07-23,Keyboard,Accessories,2,1500,Delhi,UPI,38,2,3000
+1205,2025-07-24,Headphones,Accessories,1,10000,Srinagar,Credit Card,29,4,10000
+1206,2025-07-25,Headphones,Electronics,1,10000,Delhi,Debit Card,58,2,10000
+1207,2025-07-26,Headphones,Electronics,4,500,Mumbai,Credit Card,50,4,2000
+1208,2025-07-27,Headphones,Accessories,3,25000,Delhi,Credit Card,21,3,75000
+1209,2025-07-28,Headphones,Gadgets,4,1500,Hyderabad,Debit Card,59,3,6000
+1210,2025-07-29,Keyboard,Accessories,4,5000,Delhi,UPI,24,3,20000
+1211,2025-07-30,Keyboard,Electronics,4,500,Delhi,Credit Card,39,3,2000
+1212,2025-07-31,Tablet,Accessories,4,1500,Srinagar,Credit Card,50,1,6000
+1213,2025-08-01,Phone,Electronics,5,1500,Delhi,Debit Card,34,1,7500
+1214,2025-08-02,Mouse,Accessories,5,500,Srinagar,UPI,41,5,2500
+1215,2025-08-03,Headphones,Gadgets,2,10000,Bangalore,Credit Card,51,2,20000
+1216,2025-08-04,Laptop,Accessories,1,1500,Mumbai,Debit Card,45,4,1500
+1217,2025-08-05,Mouse,Accessories,4,10000,Srinagar,Credit Card,60,4,40000
+1218,2025-08-06,Keyboard,Electronics,2,500,Hyderabad,Cash,58,1,1000
+1219,2025-08-07,Laptop,Electronics,1,10000,Bangalore,Debit Card,56,4,10000
+1220,2025-08-08,Laptop,Electronics,3,1000,Srinagar,UPI,39,1,3000
+1221,2025-08-09,Laptop,Accessories,5,5000,Srinagar,UPI,34,5,25000
+1222,2025-08-10,Tablet,Gadgets,1,50000,Mumbai,UPI,51,2,50000
+1223,2025-08-11,Keyboard,Electronics,3,1500,Hyderabad,UPI,23,5,4500
+1224,2025-08-12,Laptop,Electronics,1,25000,Chennai,Credit Card,63,3,25000
+1225,2025-08-13,Headphones,Accessories,5,5000,Chennai,Credit Card,23,3,25000
+1226,2025-08-14,Smartwatch,Electronics,5,50000,Srinagar,UPI,51,3,250000
+1227,2025-08-15,Laptop,Gadgets,2,10000,Delhi,UPI,18,5,20000
+1228,2025-08-16,Tablet,Gadgets,4,1500,Hyderabad,UPI,27,4,6000
+1229,2025-08-17,Mouse,Electronics,1,10000,Bangalore,Credit Card,38,2,10000
+1230,2025-08-18,Keyboard,Electronics,1,1000,Delhi,UPI,22,3,1000
+1231,2025-08-19,Tablet,Accessories,3,500,Delhi,UPI,19,3,1500
+1232,2025-08-20,Laptop,Gadgets,5,1500,Hyderabad,Cash,39,3,7500
+1233,2025-08-21,Keyboard,Gadgets,1,50000,Srinagar,Cash,19,2,50000
+1234,2025-08-22,Smartwatch,Electronics,5,50000,Srinagar,UPI,27,3,250000
+1235,2025-08-23,Laptop,Accessories,1,1000,Srinagar,Debit Card,51,2,1000
+1236,2025-08-24,Tablet,Gadgets,2,1000,Srinagar,UPI,33,3,2000
+1237,2025-08-25,Phone,Gadgets,4,1500,Chennai,Cash,56,5,6000
+1238,2025-08-26,Headphones,Accessories,1,10000,Srinagar,Debit Card,39,5,10000
+1239,2025-08-27,Mouse,Accessories,5,25000,Chennai,Debit Card,29,2,125000
+1240,2025-08-28,Tablet,Gadgets,2,50000,Chennai,UPI,41,5,100000
+1241,2025-08-29,Keyboard,Gadgets,1,50000,Srinagar,Cash,64,2,50000
+1242,2025-08-30,Laptop,Accessories,3,1000,Mumbai,Cash,57,5,3000
+1243,2025-08-31,Headphones,Gadgets,4,5000,Bangalore,Debit Card,55,5,20000
+1244,2025-09-01,Laptop,Electronics,1,1000,Delhi,UPI,27,2,1000
+1245,2025-09-02,Keyboard,Electronics,2,25000,Chennai,Credit Card,52,4,50000
+1246,2025-09-03,Laptop,Accessories,3,10000,Hyderabad,Credit Card,49,5,30000
+1247,2025-09-04,Phone,Accessories,2,10000,Hyderabad,Cash,24,3,20000
+1248,2025-09-05,Headphones,Accessories,2,5000,Bangalore,Credit Card,38,4,10000
+1249,2025-09-06,Headphones,Electronics,3,50000,Hyderabad,Cash,37,2,150000
+1250,2025-09-07,Keyboard,Gadgets,2,1000,Mumbai,Cash,43,4,2000
+1251,2025-09-08,Mouse,Electronics,3,10000,Hyderabad,Cash,21,1,30000
+1252,2025-09-09,Phone,Gadgets,1,25000,Delhi,Credit Card,63,1,25000
+1253,2025-09-10,Tablet,Electronics,3,1500,Delhi,Cash,39,5,4500
+1254,2025-09-11,Laptop,Gadgets,3,500,Chennai,Debit Card,32,5,1500
+1255,2025-09-12,Smartwatch,Electronics,4,500,Srinagar,UPI,57,3,2000
+1256,2025-09-13,Laptop,Accessories,3,500,Mumbai,UPI,38,4,1500
+1257,2025-09-14,Laptop,Electronics,3,50000,Chennai,Cash,32,1,150000
+1258,2025-09-15,Tablet,Gadgets,1,1000,Mumbai,UPI,39,5,1000
+1259,2025-09-16,Laptop,Electronics,4,5000,Srinagar,Credit Card,45,4,20000
+1260,2025-09-17,Phone,Electronics,5,10000,Hyderabad,Credit Card,31,5,50000
+1261,2025-09-18,Phone,Electronics,1,1500,Hyderabad,UPI,44,5,1500
+1262,2025-09-19,Headphones,Accessories,1,25000,Srinagar,Credit Card,58,1,25000
+1263,2025-09-20,Keyboard,Electronics,5,1500,Chennai,UPI,57,1,7500
+1264,2025-09-21,Mouse,Accessories,3,25000,Srinagar,UPI,45,5,75000
+1265,2025-09-22,Smartwatch,Accessories,2,50000,Bangalore,UPI,43,2,100000
+1266,2025-09-23,Laptop,Electronics,4,1000,Delhi,Cash,19,5,4000
+1267,2025-09-24,Laptop,Electronics,2,500,Chennai,UPI,42,5,1000
+1268,2025-09-25,Tablet,Electronics,5,1000,Mumbai,Cash,20,3,5000
+1269,2025-09-26,Keyboard,Gadgets,1,50000,Bangalore,UPI,25,3,50000
+1270,2025-09-27,Phone,Electronics,1,5000,Chennai,UPI,61,3,5000
+1271,2025-09-28,Smartwatch,Accessories,4,5000,Srinagar,UPI,50,2,20000
+1272,2025-09-29,Headphones,Electronics,1,50000,Srinagar,Credit Card,59,2,50000
+1273,2025-09-30,Phone,Gadgets,1,25000,Srinagar,Cash,52,5,25000
+1274,2025-10-01,Keyboard,Electronics,4,10000,Srinagar,Cash,23,3,40000
+1275,2025-10-02,Mouse,Gadgets,4,10000,Mumbai,UPI,56,2,40000
+1276,2025-10-03,Headphones,Gadgets,5,25000,Bangalore,UPI,40,1,125000
+1277,2025-10-04,Mouse,Electronics,1,5000,Hyderabad,Credit Card,42,5,5000
+1278,2025-10-05,Tablet,Accessories,1,5000,Delhi,Credit Card,60,4,5000
+1279,2025-10-06,Tablet,Gadgets,5,5000,Mumbai,Credit Card,36,5,25000
+1280,2025-10-07,Laptop,Electronics,3,1000,Mumbai,Cash,22,4,3000
+1281,2025-10-08,Mouse,Electronics,3,5000,Hyderabad,Cash,28,3,15000
+1282,2025-10-09,Keyboard,Accessories,3,1500,Hyderabad,Cash,29,4,4500
+1283,2025-10-10,Smartwatch,Gadgets,5,500,Delhi,UPI,27,3,2500
+1284,2025-10-11,Headphones,Gadgets,1,5000,Delhi,Cash,25,1,5000
+1285,2025-10-12,Phone,Electronics,5,25000,Hyderabad,Debit Card,41,4,125000
+1286,2025-10-13,Keyboard,Electronics,5,500,Srinagar,Debit Card,45,5,2500
+1287,2025-10-14,Keyboard,Accessories,3,1000,Mumbai,Credit Card,58,3,3000
+1288,2025-10-15,Tablet,Accessories,2,25000,Chennai,Cash,53,5,50000
+1289,2025-10-16,Mouse,Gadgets,1,500,Delhi,Debit Card,54,2,500
+1290,2025-10-17,Laptop,Gadgets,3,25000,Delhi,Credit Card,38,3,75000
+1291,2025-10-18,Laptop,Electronics,2,1000,Hyderabad,Cash,25,4,2000
+1292,2025-10-19,Headphones,Gadgets,2,1500,Bangalore,UPI,26,3,3000
+1293,2025-10-20,Tablet,Accessories,4,1000,Chennai,Debit Card,64,5,4000
+1294,2025-10-21,Keyboard,Accessories,1,1000,Chennai,UPI,32,1,1000
+1295,2025-10-22,Smartwatch,Electronics,2,25000,Delhi,Cash,63,3,50000
+1296,2025-10-23,Tablet,Accessories,3,50000,Srinagar,Debit Card,57,4,150000
+1297,2025-10-24,Headphones,Accessories,4,10000,Bangalore,Cash,35,2,40000
+1298,2025-10-25,Headphones,Accessories,1,5000,Chennai,UPI,59,1,5000
+1299,2025-10-26,Tablet,Accessories,5,5000,Delhi,Debit Card,37,2,25000
+1300,2025-10-27,Headphones,Electronics,3,1500,Chennai,UPI,23,3,4500
+1301,2025-10-28,Tablet,Electronics,2,1500,Bangalore,Cash,29,5,3000
+1302,2025-10-29,Phone,Gadgets,2,5000,Bangalore,Cash,19,5,10000
+1303,2025-10-30,Tablet,Accessories,3,10000,Mumbai,UPI,24,4,30000
+1304,2025-10-31,Mouse,Gadgets,2,5000,Hyderabad,Debit Card,33,5,10000
+1305,2025-11-01,Tablet,Electronics,4,50000,Hyderabad,UPI,20,1,200000
+1306,2025-11-02,Headphones,Electronics,1,10000,Delhi,Cash,62,5,10000
+1307,2025-11-03,Mouse,Electronics,4,1500,Bangalore,UPI,20,4,6000
+1308,2025-11-04,Headphones,Electronics,2,500,Mumbai,Cash,44,3,1000
+1309,2025-11-05,Laptop,Electronics,5,25000,Mumbai,UPI,60,3,125000
+1310,2025-11-06,Laptop,Electronics,1,50000,Chennai,Debit Card,57,5,50000
+1311,2025-11-07,Mouse,Electronics,1,50000,Chennai,Debit Card,55,2,50000
+1312,2025-11-08,Phone,Accessories,3,1500,Mumbai,UPI,50,3,4500
+1313,2025-11-09,Laptop,Gadgets,3,1500,Chennai,UPI,45,5,4500
+1314,2025-11-10,Tablet,Electronics,5,1000,Bangalore,Debit Card,18,4,5000
+1315,2025-11-11,Headphones,Accessories,1,50000,Srinagar,Cash,25,5,50000
+1316,2025-11-12,Laptop,Accessories,5,1000,Bangalore,Debit Card,54,3,5000
+1317,2025-11-13,Laptop,Gadgets,3,1000,Mumbai,Cash,49,4,3000
+1318,2025-11-14,Phone,Electronics,3,25000,Mumbai,UPI,60,5,75000
+1319,2025-11-15,Mouse,Gadgets,1,1000,Bangalore,UPI,54,1,1000
+1320,2025-11-16,Mouse,Electronics,4,10000,Chennai,Cash,21,4,40000
+1321,2025-11-17,Keyboard,Accessories,2,5000,Chennai,UPI,47,1,10000
+1322,2025-11-18,Phone,Accessories,3,500,Hyderabad,Cash,23,2,1500
+1323,2025-11-19,Tablet,Accessories,3,1500,Mumbai,Credit Card,63,4,4500
+1324,2025-11-20,Mouse,Accessories,4,10000,Delhi,Debit Card,36,1,40000
+1325,2025-11-21,Headphones,Gadgets,4,500,Hyderabad,Credit Card,49,3,2000
+1326,2025-11-22,Phone,Electronics,5,50000,Chennai,Cash,26,3,250000
+1327,2025-11-23,Laptop,Electronics,5,50000,Bangalore,Debit Card,29,2,250000
+1328,2025-11-24,Headphones,Gadgets,2,50000,Chennai,Cash,28,4,100000
+1329,2025-11-25,Headphones,Electronics,2,10000,Bangalore,Debit Card,63,4,20000
+1330,2025-11-26,Laptop,Accessories,1,10000,Hyderabad,Debit Card,33,4,10000
+1331,2025-11-27,Phone,Electronics,5,1500,Mumbai,Debit Card,18,2,7500
+1332,2025-11-28,Laptop,Accessories,3,5000,Chennai,Debit Card,62,4,15000
+1333,2025-11-29,Keyboard,Gadgets,5,1000,Bangalore,Cash,38,3,5000
+1334,2025-11-30,Headphones,Electronics,3,50000,Mumbai,Debit Card,47,1,150000
+1335,2025-12-01,Smartwatch,Gadgets,4,25000,Delhi,Debit Card,30,3,100000
+1336,2025-12-02,Smartwatch,Electronics,5,5000,Bangalore,Credit Card,51,3,25000
+1337,2025-12-03,Tablet,Accessories,4,25000,Hyderabad,UPI,21,1,100000
+1338,2025-12-04,Mouse,Gadgets,2,1500,Delhi,UPI,45,3,3000
+1339,2025-12-05,Laptop,Electronics,2,1500,Delhi,Credit Card,55,2,3000
+1340,2025-12-06,Laptop,Accessories,1,1500,Srinagar,Credit Card,48,1,1500
+1341,2025-12-07,Tablet,Gadgets,5,500,Chennai,Cash,44,3,2500
+1342,2025-12-08,Tablet,Gadgets,4,25000,Bangalore,Cash,22,5,100000
+1343,2025-12-09,Tablet,Electronics,3,5000,Delhi,Cash,42,3,15000
+1344,2025-12-10,Headphones,Electronics,2,5000,Srinagar,Credit Card,20,2,10000
+1345,2025-12-11,Keyboard,Electronics,2,10000,Hyderabad,Credit Card,50,4,20000
+1346,2025-12-12,Laptop,Accessories,3,10000,Mumbai,Debit Card,21,3,30000
+1347,2025-12-13,Headphones,Electronics,4,50000,Bangalore,Cash,42,4,200000
+1348,2025-12-14,Tablet,Gadgets,4,10000,Delhi,Cash,37,5,40000
+1349,2025-12-15,Laptop,Gadgets,5,1500,Chennai,Cash,51,3,7500
+1350,2025-12-16,Headphones,Electronics,5,5000,Srinagar,UPI,43,1,25000
+1351,2025-12-17,Keyboard,Electronics,1,25000,Delhi,Debit Card,22,4,25000
+1352,2025-12-18,Headphones,Gadgets,2,1500,Chennai,Cash,52,5,3000
+1353,2025-12-19,Keyboard,Accessories,5,500,Delhi,Cash,45,1,2500
+1354,2025-12-20,Tablet,Electronics,4,10000,Bangalore,Cash,46,1,40000
+1355,2025-12-21,Keyboard,Electronics,3,1500,Bangalore,UPI,26,1,4500
+1356,2025-12-22,Laptop,Gadgets,4,1500,Bangalore,UPI,55,1,6000
+1357,2025-12-23,Tablet,Electronics,2,500,Hyderabad,Credit Card,23,3,1000
+1358,2025-12-24,Laptop,Accessories,4,1000,Hyderabad,Debit Card,36,3,4000
+1359,2025-12-25,Smartwatch,Gadgets,1,5000,Srinagar,Credit Card,61,3,5000
+1360,2025-12-26,Phone,Electronics,2,25000,Bangalore,Debit Card,28,5,50000
+1361,2025-12-27,Keyboard,Gadgets,3,50000,Chennai,UPI,19,5,150000
+1362,2025-12-28,Phone,Electronics,1,1000,Delhi,Cash,64,5,1000
+1363,2025-12-29,Phone,Electronics,2,10000,Mumbai,Credit Card,61,2,20000
+1364,2025-12-30,Keyboard,Electronics,3,1500,Chennai,Cash,61,5,4500
+1365,2025-12-31,Tablet,Accessories,1,500,Hyderabad,Credit Card,26,3,500
+1366,2026-01-01,Smartwatch,Accessories,1,500,Hyderabad,UPI,38,3,500
+1367,2026-01-02,Laptop,Gadgets,2,5000,Chennai,UPI,41,2,10000
+1368,2026-01-03,Headphones,Electronics,5,1000,Hyderabad,UPI,51,2,5000
+1369,2026-01-04,Laptop,Electronics,1,50000,Bangalore,Credit Card,39,5,50000
+1370,2026-01-05,Headphones,Accessories,1,5000,Srinagar,Debit Card,20,4,5000
+1371,2026-01-06,Laptop,Electronics,3,1500,Delhi,Credit Card,29,2,4500
+1372,2026-01-07,Keyboard,Accessories,4,5000,Srinagar,Debit Card,45,1,20000
+1373,2026-01-08,Smartwatch,Electronics,2,25000,Delhi,Credit Card,47,3,50000
+1374,2026-01-09,Headphones,Gadgets,2,500,Delhi,Credit Card,43,1,1000
+1375,2026-01-10,Mouse,Electronics,5,500,Srinagar,UPI,38,3,2500
+1376,2026-01-11,Tablet,Electronics,5,10000,Chennai,Cash,45,3,50000
+1377,2026-01-12,Laptop,Accessories,2,10000,Delhi,Cash,43,2,20000
+1378,2026-01-13,Laptop,Electronics,5,50000,Srinagar,Debit Card,50,2,250000
+1379,2026-01-14,Headphones,Electronics,3,1500,Delhi,Cash,38,1,4500
+1380,2026-01-15,Tablet,Accessories,2,25000,Mumbai,Credit Card,52,3,50000
+1381,2026-01-16,Tablet,Gadgets,5,1000,Chennai,Credit Card,51,1,5000
+1382,2026-01-17,Keyboard,Gadgets,2,5000,Bangalore,UPI,58,4,10000
+1383,2026-01-18,Mouse,Accessories,4,50000,Delhi,UPI,64,1,200000
+1384,2026-01-19,Keyboard,Accessories,1,1500,Mumbai,Cash,35,5,1500
+1385,2026-01-20,Keyboard,Accessories,2,10000,Bangalore,Debit Card,28,1,20000
+1386,2026-01-21,Keyboard,Accessories,1,5000,Bangalore,Cash,40,5,5000
+1387,2026-01-22,Keyboard,Accessories,5,10000,Delhi,Cash,39,5,50000
+1388,2026-01-23,Keyboard,Gadgets,1,5000,Srinagar,Cash,34,5,5000
+1389,2026-01-24,Smartwatch,Gadgets,2,1000,Delhi,Cash,22,4,2000
+1390,2026-01-25,Tablet,Accessories,4,1500,Mumbai,Credit Card,61,1,6000
+1391,2026-01-26,Keyboard,Electronics,5,5000,Bangalore,Debit Card,28,1,25000
+1392,2026-01-27,Tablet,Accessories,2,25000,Delhi,Credit Card,47,4,50000
+1393,2026-01-28,Tablet,Electronics,5,50000,Srinagar,Debit Card,32,3,250000
+1394,2026-01-29,Phone,Accessories,3,500,Delhi,UPI,44,2,1500
+1395,2026-01-30,Smartwatch,Accessories,1,25000,Chennai,Cash,52,1,25000
+1396,2026-01-31,Keyboard,Gadgets,3,25000,Srinagar,Credit Card,50,2,75000
+1397,2026-02-01,Laptop,Electronics,2,50000,Mumbai,Debit Card,37,4,100000
+1398,2026-02-02,Headphones,Electronics,4,500,Bangalore,UPI,33,3,2000
+1399,2026-02-03,Mouse,Gadgets,5,25000,Delhi,UPI,51,3,125000
+1400,2026-02-04,Laptop,Gadgets,1,5000,Srinagar,Cash,19,3,5000
+1401,2026-02-05,Smartwatch,Gadgets,5,5000,Chennai,Debit Card,52,4,25000
+1402,2026-02-06,Headphones,Gadgets,2,5000,Srinagar,Credit Card,57,5,10000
+1403,2026-02-07,Smartwatch,Electronics,5,500,Hyderabad,Cash,45,5,2500
+1404,2026-02-08,Tablet,Electronics,1,25000,Chennai,Credit Card,64,2,25000
+1405,2026-02-09,Headphones,Accessories,2,500,Mumbai,UPI,56,5,1000
+1406,2026-02-10,Tablet,Accessories,5,5000,Bangalore,Credit Card,23,5,25000
+1407,2026-02-11,Laptop,Gadgets,4,50000,Mumbai,Credit Card,26,3,200000
+1408,2026-02-12,Laptop,Gadgets,2,25000,Delhi,Cash,37,3,50000
+1409,2026-02-13,Headphones,Gadgets,2,25000,Srinagar,Credit Card,18,2,50000
+1410,2026-02-14,Headphones,Accessories,4,10000,Hyderabad,Cash,25,1,40000
+1411,2026-02-15,Keyboard,Accessories,3,10000,Chennai,UPI,40,2,30000
+1412,2026-02-16,Smartwatch,Accessories,1,1000,Chennai,Cash,20,2,1000
+1413,2026-02-17,Keyboard,Accessories,3,1500,Srinagar,Cash,21,4,4500
+1414,2026-02-18,Smartwatch,Accessories,5,10000,Hyderabad,Debit Card,42,4,50000
+1415,2026-02-19,Keyboard,Accessories,4,500,Srinagar,Credit Card,64,2,2000
+1416,2026-02-20,Tablet,Accessories,3,10000,Delhi,UPI,55,2,30000
+1417,2026-02-21,Headphones,Gadgets,2,1000,Mumbai,Cash,32,2,2000
+1418,2026-02-22,Laptop,Gadgets,5,25000,Chennai,UPI,38,5,125000
+1419,2026-02-23,Smartwatch,Gadgets,5,1000,Delhi,Debit Card,52,4,5000
+1420,2026-02-24,Smartwatch,Gadgets,3,25000,Mumbai,Credit Card,63,2,75000
+1421,2026-02-25,Laptop,Accessories,3,50000,Delhi,Cash,31,3,150000
+1422,2026-02-26,Keyboard,Electronics,4,50000,Hyderabad,Credit Card,53,3,200000
+1423,2026-02-27,Smartwatch,Accessories,1,25000,Chennai,Debit Card,29,5,25000
+1424,2026-02-28,Mouse,Electronics,3,1500,Srinagar,Debit Card,34,5,4500
+1425,2026-03-01,Tablet,Gadgets,3,10000,Srinagar,UPI,56,1,30000
+1426,2026-03-02,Headphones,Accessories,2,500,Mumbai,Cash,26,1,1000
+1427,2026-03-03,Laptop,Gadgets,5,500,Bangalore,UPI,52,1,2500
+1428,2026-03-04,Headphones,Accessories,1,5000,Hyderabad,Debit Card,30,5,5000
+1429,2026-03-05,Mouse,Gadgets,2,25000,Mumbai,Credit Card,32,5,50000
+1430,2026-03-06,Smartwatch,Electronics,4,500,Bangalore,UPI,35,5,2000
+1431,2026-03-07,Smartwatch,Electronics,4,1500,Delhi,UPI,50,3,6000
+1432,2026-03-08,Mouse,Electronics,3,25000,Hyderabad,Credit Card,23,5,75000
+1433,2026-03-09,Laptop,Accessories,3,1500,Delhi,UPI,44,3,4500
+1434,2026-03-10,Tablet,Electronics,4,500,Chennai,Credit Card,40,1,2000
+1435,2026-03-11,Phone,Accessories,3,500,Hyderabad,Cash,44,1,1500
+1436,2026-03-12,Laptop,Electronics,1,5000,Bangalore,Credit Card,51,1,5000
+1437,2026-03-13,Phone,Electronics,3,500,Chennai,Cash,63,2,1500
+1438,2026-03-14,Mouse,Accessories,5,25000,Srinagar,Credit Card,55,2,125000
+1439,2026-03-15,Keyboard,Accessories,3,50000,Bangalore,Debit Card,31,4,150000
+1440,2026-03-16,Phone,Electronics,2,25000,Mumbai,Debit Card,53,4,50000
+1441,2026-03-17,Tablet,Accessories,1,25000,Srinagar,Cash,25,4,25000
+1442,2026-03-18,Keyboard,Electronics,2,5000,Srinagar,Cash,52,2,10000
+1443,2026-03-19,Phone,Accessories,2,5000,Mumbai,Debit Card,36,2,10000
+1444,2026-03-20,Mouse,Gadgets,5,500,Hyderabad,Cash,47,4,2500
+1445,2026-03-21,Keyboard,Gadgets,1,1000,Srinagar,Credit Card,31,4,1000
+1446,2026-03-22,Mouse,Gadgets,1,1000,Bangalore,Credit Card,37,5,1000
+1447,2026-03-23,Phone,Gadgets,1,5000,Chennai,Debit Card,42,4,5000
+1448,2026-03-24,Mouse,Gadgets,1,500,Srinagar,UPI,57,5,500
+1449,2026-03-25,Tablet,Electronics,1,1000,Bangalore,Credit Card,41,3,1000
+1450,2026-03-26,Phone,Gadgets,5,500,Delhi,Cash,31,2,2500
+1451,2026-03-27,Phone,Gadgets,3,500,Bangalore,UPI,43,4,1500
+1452,2026-03-28,Phone,Gadgets,2,500,Chennai,UPI,55,2,1000
+1453,2026-03-29,Laptop,Gadgets,1,10000,Bangalore,Credit Card,40,2,10000
+1454,2026-03-30,Laptop,Accessories,3,25000,Mumbai,Credit Card,39,2,75000
+1455,2026-03-31,Laptop,Electronics,3,500,Chennai,UPI,36,3,1500
+1456,2026-04-01,Tablet,Gadgets,2,10000,Hyderabad,UPI,63,1,20000
+1457,2026-04-02,Keyboard,Gadgets,5,5000,Delhi,Debit Card,20,4,25000
+1458,2026-04-03,Mouse,Gadgets,4,1000,Mumbai,Cash,59,1,4000
+1459,2026-04-04,Smartwatch,Electronics,4,25000,Hyderabad,Debit Card,36,1,100000
+1460,2026-04-05,Phone,Accessories,3,50000,Bangalore,Credit Card,26,1,150000
+1461,2026-04-06,Mouse,Electronics,2,1000,Chennai,Debit Card,45,2,2000
+1462,2026-04-07,Phone,Accessories,4,25000,Delhi,Debit Card,37,5,100000
+1463,2026-04-08,Tablet,Gadgets,3,50000,Mumbai,Debit Card,62,2,150000
+1464,2026-04-09,Phone,Gadgets,5,1000,Hyderabad,Debit Card,24,2,5000
+1465,2026-04-10,Laptop,Electronics,4,25000,Hyderabad,Cash,31,1,100000
+1466,2026-04-11,Smartwatch,Electronics,3,1000,Delhi,Cash,26,2,3000
+1467,2026-04-12,Headphones,Accessories,3,1000,Bangalore,UPI,36,1,3000
+1468,2026-04-13,Phone,Accessories,1,50000,Delhi,Credit Card,64,5,50000
+1469,2026-04-14,Mouse,Electronics,5,1000,Hyderabad,Debit Card,31,4,5000
+1470,2026-04-15,Laptop,Accessories,1,1000,Srinagar,UPI,55,1,1000
+1471,2026-04-16,Headphones,Electronics,2,50000,Mumbai,UPI,53,5,100000
+1472,2026-04-17,Smartwatch,Accessories,1,5000,Delhi,UPI,57,4,5000
+1473,2026-04-18,Headphones,Electronics,1,500,Hyderabad,Cash,34,3,500
+1474,2026-04-19,Laptop,Electronics,4,1500,Bangalore,Debit Card,47,1,6000
+1475,2026-04-20,Keyboard,Electronics,3,10000,Hyderabad,Debit Card,26,1,30000
+1476,2026-04-21,Keyboard,Accessories,5,1500,Bangalore,Credit Card,50,3,7500
+1477,2026-04-22,Headphones,Accessories,1,1500,Delhi,Debit Card,42,3,1500
+1478,2026-04-23,Tablet,Accessories,5,25000,Bangalore,Debit Card,31,1,125000
+1479,2026-04-24,Mouse,Electronics,1,500,Chennai,UPI,28,3,500
+1480,2026-04-25,Mouse,Accessories,2,25000,Chennai,Credit Card,52,2,50000
+1481,2026-04-26,Headphones,Accessories,1,500,Chennai,Debit Card,58,4,500
+1482,2026-04-27,Phone,Electronics,4,50000,Srinagar,Cash,31,4,200000
+1483,2026-04-28,Phone,Gadgets,3,50000,Delhi,Debit Card,47,4,150000
+1484,2026-04-29,Mouse,Electronics,2,500,Hyderabad,UPI,58,2,1000
+1485,2026-04-30,Mouse,Accessories,1,1000,Hyderabad,Cash,21,3,1000
+1486,2026-05-01,Keyboard,Electronics,5,5000,Srinagar,UPI,21,5,25000
+1487,2026-05-02,Tablet,Gadgets,2,1000,Bangalore,Debit Card,45,3,2000
+1488,2026-05-03,Laptop,Electronics,2,5000,Srinagar,Cash,25,1,10000
+1489,2026-05-04,Phone,Accessories,1,25000,Bangalore,Credit Card,19,4,25000
+1490,2026-05-05,Mouse,Gadgets,2,5000,Bangalore,Credit Card,58,3,10000
+1491,2026-05-06,Keyboard,Accessories,5,25000,Mumbai,Cash,63,5,125000
+1492,2026-05-07,Smartwatch,Gadgets,2,50000,Hyderabad,Cash,39,1,100000
+1493,2026-05-08,Keyboard,Gadgets,5,1500,Chennai,UPI,58,2,7500
+1494,2026-05-09,Phone,Electronics,1,50000,Bangalore,Cash,33,2,50000
+1495,2026-05-10,Phone,Electronics,3,50000,Mumbai,UPI,46,5,150000
+1496,2026-05-11,Keyboard,Accessories,2,1500,Hyderabad,Debit Card,47,1,3000
+1497,2026-05-12,Laptop,Electronics,3,5000,Chennai,UPI,29,4,15000
+1498,2026-05-13,Headphones,Electronics,5,5000,Bangalore,Cash,52,3,25000
+1499,2026-05-14,Phone,Gadgets,2,25000,Bangalore,Cash,28,1,50000
+1500,2026-05-15,Keyboard,Electronics,4,1000,Srinagar,Debit Card,63,2,4000
