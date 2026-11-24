@@ -2,19 +2,19 @@ Level 1 — Understanding the data
 - How many rows and columns?
 - Are there missing values?
 - Are there duplicate Order IDs?
-- What are the average, median, minimum and maximum sales?
+- What are the average, median, minimum and maximum sales? (level 1 done)
 Level 2 — Business analysis
 - Which product generates the highest revenue?
 - Which city has the most sales?
 - Which payment method is most popular?
 - Which category sells the most units?
 - Which age group spends the most?
-- Which products have the highest average ratings?
+- Which products have the highest average ratings? (level 2 done)
 Level 3 — NumPy
 - Calculate mean and standard deviation of Total_Sales.
 - Find the 10 largest orders.
 - Calculate the correlation between Quantity and Total_Sales.
-- Find the 25th, 50th and 75th percentiles of sales.
+- Find the 25th, 50th and 75th percentiles of sales.  (level 3 done)
 Level 4 — Matplotlib
 Create:
 1. Revenue by product (bar chart).
@@ -22,4 +22,4 @@ Create:
 3. Sales distribution (histogram).
 4. Payment method distribution (pie chart).
 5. Customer age vs total sales (scatter plot).
-6. Monthly revenue (line chart).
+6. Monthly revenue (line chart).   
